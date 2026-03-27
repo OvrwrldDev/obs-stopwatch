@@ -27,7 +27,7 @@ Perfect for streams, speedruns, challenges, and any timed content.
 3. Click **“+”** and select the `.lua` file.
 
 4. In the script settings:  
-   - Select your **Text Source**
+   - Select your **Text Source** (Name it Timer and type it into the Text Source Box in the script selector, then press your start hotkey for it to activate, then pause it, and restart it for it to stay on screen) .
 
 ---
 
